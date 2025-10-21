@@ -1,0 +1,1 @@
+Ce code a été réalisé en collaboration avec 2 autres étudiants du master physique fondamentale. Il a pour but de récupérer les données de capteurs Arduino traitées par un groupe tier, et de les afficher sur une fenêtre interactive claire et simple d'utilisation.
